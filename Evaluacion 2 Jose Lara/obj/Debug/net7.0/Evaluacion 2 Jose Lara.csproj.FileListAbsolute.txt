@@ -1,0 +1,15 @@
+C:\Users\jlara\source\repos\SOL_EVAL2_JOSE_LARA\Evaluacion 2 Jose Lara\bin\Debug\net7.0\Evaluacion 2 Jose Lara.exe
+C:\Users\jlara\source\repos\SOL_EVAL2_JOSE_LARA\Evaluacion 2 Jose Lara\bin\Debug\net7.0\Evaluacion 2 Jose Lara.deps.json
+C:\Users\jlara\source\repos\SOL_EVAL2_JOSE_LARA\Evaluacion 2 Jose Lara\bin\Debug\net7.0\Evaluacion 2 Jose Lara.runtimeconfig.json
+C:\Users\jlara\source\repos\SOL_EVAL2_JOSE_LARA\Evaluacion 2 Jose Lara\bin\Debug\net7.0\Evaluacion 2 Jose Lara.dll
+C:\Users\jlara\source\repos\SOL_EVAL2_JOSE_LARA\Evaluacion 2 Jose Lara\bin\Debug\net7.0\Evaluacion 2 Jose Lara.pdb
+C:\Users\jlara\source\repos\SOL_EVAL2_JOSE_LARA\Evaluacion 2 Jose Lara\obj\Debug\net7.0\Evaluacion 2 Jose Lara.csproj.AssemblyReference.cache
+C:\Users\jlara\source\repos\SOL_EVAL2_JOSE_LARA\Evaluacion 2 Jose Lara\obj\Debug\net7.0\Evaluacion 2 Jose Lara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlara\source\repos\SOL_EVAL2_JOSE_LARA\Evaluacion 2 Jose Lara\obj\Debug\net7.0\Evaluacion 2 Jose Lara.AssemblyInfoInputs.cache
+C:\Users\jlara\source\repos\SOL_EVAL2_JOSE_LARA\Evaluacion 2 Jose Lara\obj\Debug\net7.0\Evaluacion 2 Jose Lara.AssemblyInfo.cs
+C:\Users\jlara\source\repos\SOL_EVAL2_JOSE_LARA\Evaluacion 2 Jose Lara\obj\Debug\net7.0\Evaluacion 2 Jose Lara.csproj.CoreCompileInputs.cache
+C:\Users\jlara\source\repos\SOL_EVAL2_JOSE_LARA\Evaluacion 2 Jose Lara\obj\Debug\net7.0\Evaluacion 2 Jose Lara.dll
+C:\Users\jlara\source\repos\SOL_EVAL2_JOSE_LARA\Evaluacion 2 Jose Lara\obj\Debug\net7.0\refint\Evaluacion 2 Jose Lara.dll
+C:\Users\jlara\source\repos\SOL_EVAL2_JOSE_LARA\Evaluacion 2 Jose Lara\obj\Debug\net7.0\Evaluacion 2 Jose Lara.pdb
+C:\Users\jlara\source\repos\SOL_EVAL2_JOSE_LARA\Evaluacion 2 Jose Lara\obj\Debug\net7.0\Evaluacion 2 Jose Lara.genruntimeconfig.cache
+C:\Users\jlara\source\repos\SOL_EVAL2_JOSE_LARA\Evaluacion 2 Jose Lara\obj\Debug\net7.0\ref\Evaluacion 2 Jose Lara.dll
